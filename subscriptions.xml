@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+    <head>Leaf Subscriptions</head>
+    <body>
+        <outline title="Alejandro Celaya | Blog" xmlUrl="https://blog.alejandrocelaya.com/feed/" type="rss" text="Alejandro Celaya | Blog"/>
+        <outline title="Laravel" xmlUrl="https://blog.laravel.com/feed" type="rss" text="Laravel"/>
+        <outline title="The Pragmatic Engineer" xmlUrl="https://blog.pragmaticengineer.com/rss/" type="rss" text="The Pragmatic Engineer"/>
+        <outline title="BrazilJS" xmlUrl="https://braziljs.org/feed/" type="rss" text="BrazilJS"/>
+        <outline title="Diving Laravel" xmlUrl="https://divinglaravel.com/feed" type="rss" text="Diving Laravel"/>
+        <outline title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/" type="rss" text="Uber Engineering Blog"/>
+        <outline title="Filipe Freire’s homepage" xmlUrl="https://filfreire.com/feed.xml" type="rss" text="Filipe Freire’s homepage"/>
+        <outline title="The GitHub Blog" xmlUrl="https://github.blog/feed/" type="rss" text="The GitHub Blog"/>
+        <outline title="Kent C. Dodds Blog RSS Feed" xmlUrl="https://kentcdodds.com/blog/rss.xml" type="rss" text="Kent C. Dodds Blog RSS Feed"/>
+        <outline title="Signal v. Noise" xmlUrl="https://m.signalvnoise.com/rss" type="rss" text="Signal v. Noise"/>
+        <outline title="MattStauffer.com" xmlUrl="https://mattstauffer.com/blog/feed.atom" type="rss" text="MattStauffer.com"/>
+        <outline title="vinkla.dev - all blog posts" xmlUrl="https://vinkla.dev/feed.xml" type="rss" text="vinkla.dev - all blog posts"/>
+    </body>
+</opml>
