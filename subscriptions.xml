@@ -2,17 +2,38 @@
 <opml version="1.0">
     <head>Leaf Subscriptions</head>
     <body>
+        <outline title="AddyOsmani.com RSS Feed" xmlUrl="https://addyosmani.com/rss.xml" type="rss" text="AddyOsmani.com RSS Feed"/>
+        <outline title="Another Dev" xmlUrl="https://anotherdev.xyz/rss/" type="rss" text="Another Dev"/>
         <outline title="Alejandro Celaya | Blog" xmlUrl="https://blog.alejandrocelaya.com/feed/" type="rss" text="Alejandro Celaya | Blog"/>
-        <outline title="Laravel" xmlUrl="https://blog.laravel.com/feed" type="rss" text="Laravel"/>
+        <outline title="Frank de Jonge's Blog" xmlUrl="https://blog.frankdejonge.nl/rss/" type="rss" text="Frank de Jonge's Blog"/>
+        <outline title="Blog Laravel" xmlUrl="https://blog.laravel.com/feed" type="rss" text="Blog Laravel"/>
+        <outline title="The Mozilla Blog » Feed" xmlUrl="https://blog.mozilla.org/feed/" type="rss" text="The Mozilla Blog » Feed"/>
         <outline title="The Pragmatic Engineer" xmlUrl="https://blog.pragmaticengineer.com/rss/" type="rss" text="The Pragmatic Engineer"/>
         <outline title="BrazilJS" xmlUrl="https://braziljs.org/feed/" type="rss" text="BrazilJS"/>
+        <outline title="Newsletter feed for rendezvous with cassidoo" xmlUrl="https://buttondown.email/cassidoo/rss" type="rss" text="Newsletter feed for rendezvous with cassidoo"/>
+        <outline title="Christoph Rumpel" xmlUrl="https://christoph-rumpel.com/feed" type="rss" text="Christoph Rumpel"/>
+        <outline title="Google Developers Blog - RSS" xmlUrl="https://developers.googleblog.com/feeds/posts/default?alt=rss" type="rss" text="Google Developers Blog - RSS"/>
         <outline title="Diving Laravel" xmlUrl="https://divinglaravel.com/feed" type="rss" text="Diving Laravel"/>
+        <outline title="Dries Vints" xmlUrl="https://driesvints.com/blog/feed.atom" type="rss" text="Dries Vints"/>
         <outline title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/" type="rss" text="Uber Engineering Blog"/>
         <outline title="Filipe Freire’s homepage" xmlUrl="https://filfreire.com/feed.xml" type="rss" text="Filipe Freire’s homepage"/>
         <outline title="The GitHub Blog" xmlUrl="https://github.blog/feed/" type="rss" text="The GitHub Blog"/>
+        <outline title="Illustrated.dev" xmlUrl="https://illustrated.dev/rss.xml" type="rss" text="Illustrated.dev"/>
+        <outline title="Instagram RSS" xmlUrl="https://instagram-engineering.com/feed" type="rss" text="Instagram RSS"/>
+        <outline title="Jake Archibald's Blog" xmlUrl="https://jakearchibald.com/posts.rss" type="rss" text="Jake Archibald's Blog"/>
+        <outline title="Jason McCreary" xmlUrl="https://jasonmccreary.me/feed.atom" type="rss" text="Jason McCreary"/>
         <outline title="Kent C. Dodds Blog RSS Feed" xmlUrl="https://kentcdodds.com/blog/rss.xml" type="rss" text="Kent C. Dodds Blog RSS Feed"/>
+        <outline title="Labs » Feed" xmlUrl="https://labs.spotify.com/feed/" type="rss" text="Labs » Feed"/>
         <outline title="Signal v. Noise" xmlUrl="https://m.signalvnoise.com/rss" type="rss" text="Signal v. Noise"/>
         <outline title="MattStauffer.com" xmlUrl="https://mattstauffer.com/blog/feed.atom" type="rss" text="MattStauffer.com"/>
+        <outline title="Nadia Eghbal" xmlUrl="https://nadiaeghbal.com/feed" type="rss" text="Nadia Eghbal"/>
+        <outline title="Netflix - RSS" xmlUrl="https://netflixtechblog.com/feed" type="rss" text="Netflix - RSS"/>
+        <outline title="Nuno Maduro" xmlUrl="https://nunomaduro.com/rss/" type="rss" text="Nuno Maduro"/>
+        <outline title="Dan Abramov's Overreacted Blog RSS Feed" xmlUrl="https://overreacted.io/rss.xml" type="rss" text="Dan Abramov's Overreacted Blog RSS Feed"/>
+        <outline title="Go, the unwritten parts" xmlUrl="https://rakyll.org/index.xml" type="rss" text="Go, the unwritten parts"/>
+        <outline title="Rastko.tech" xmlUrl="https://rastko.tech/feed.xml" type="rss" text="Rastko.tech"/>
+        <outline title="Guillermo Rauch" xmlUrl="https://rauchg.com/atom" type="rss" text="Guillermo Rauch"/>
         <outline title="vinkla.dev - all blog posts" xmlUrl="https://vinkla.dev/feed.xml" type="rss" text="vinkla.dev - all blog posts"/>
+        <outline title="Netlify: All-in-one platform for automating modern web projects" xmlUrl="https://www.netlify.com/blog/index.xml" type="rss" text="Netlify: All-in-one platform for automating modern web projects"/>
     </body>
 </opml>
