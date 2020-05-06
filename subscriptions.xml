@@ -28,6 +28,8 @@
         <outline title="MattStauffer.com" xmlUrl="https://mattstauffer.com/blog/feed.atom" type="rss" text="MattStauffer.com"/>
         <outline title="Nadia Eghbal" xmlUrl="https://nadiaeghbal.com/feed" type="rss" text="Nadia Eghbal"/>
         <outline title="Netflix - RSS" xmlUrl="https://netflixtechblog.com/feed" type="rss" text="Netflix - RSS"/>
+        <outline title="MIT News" xmlUrl="https://news.mit.edu/rss/feed" type="rss" text="MIT News"/>
+        <outline title="Vue.js News" xmlUrl="https://news.vuejs.org/feed.xml" type="rss" text="Vue.js News"/>
         <outline title="Nuno Maduro" xmlUrl="https://nunomaduro.com/rss/" type="rss" text="Nuno Maduro"/>
         <outline title="Dan Abramov's Overreacted Blog RSS Feed" xmlUrl="https://overreacted.io/rss.xml" type="rss" text="Dan Abramov's Overreacted Blog RSS Feed"/>
         <outline title="Go, the unwritten parts" xmlUrl="https://rakyll.org/index.xml" type="rss" text="Go, the unwritten parts"/>
