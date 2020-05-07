@@ -4,6 +4,7 @@
     <body>
         <outline title="AddyOsmani.com RSS Feed" xmlUrl="https://addyosmani.com/rss.xml" type="rss" text="AddyOsmani.com RSS Feed"/>
         <outline title="Another Dev" xmlUrl="https://anotherdev.xyz/rss/" type="rss" text="Another Dev"/>
+        <outline title="Apex Software" xmlUrl="https://apex.sh/blog/feed.rss" type="rss" text="Apex Software"/>
         <outline title="Alejandro Celaya | Blog" xmlUrl="https://blog.alejandrocelaya.com/feed/" type="rss" text="Alejandro Celaya | Blog"/>
         <outline title="Frank de Jonge's Blog" xmlUrl="https://blog.frankdejonge.nl/rss/" type="rss" text="Frank de Jonge's Blog"/>
         <outline title="Blog Laravel" xmlUrl="https://blog.laravel.com/feed" type="rss" text="Blog Laravel"/>
@@ -22,6 +23,7 @@
         <outline title="Instagram RSS" xmlUrl="https://instagram-engineering.com/feed" type="rss" text="Instagram RSS"/>
         <outline title="Jake Archibald's Blog" xmlUrl="https://jakearchibald.com/posts.rss" type="rss" text="Jake Archibald's Blog"/>
         <outline title="Jason McCreary" xmlUrl="https://jasonmccreary.me/feed.atom" type="rss" text="Jason McCreary"/>
+        <outline title="James Long" xmlUrl="https://jlongster.com/atom.xml" type="rss" text="James Long"/>
         <outline title="Kent C. Dodds Blog RSS Feed" xmlUrl="https://kentcdodds.com/blog/rss.xml" type="rss" text="Kent C. Dodds Blog RSS Feed"/>
         <outline title="Labs » Feed" xmlUrl="https://labs.spotify.com/feed/" type="rss" text="Labs » Feed"/>
         <outline title="Signal v. Noise" xmlUrl="https://m.signalvnoise.com/rss" type="rss" text="Signal v. Noise"/>
@@ -30,6 +32,7 @@
         <outline title="Netflix - RSS" xmlUrl="https://netflixtechblog.com/feed" type="rss" text="Netflix - RSS"/>
         <outline title="MIT News" xmlUrl="https://news.mit.edu/rss/feed" type="rss" text="MIT News"/>
         <outline title="Vue.js News" xmlUrl="https://news.vuejs.org/feed.xml" type="rss" text="Vue.js News"/>
+        <outline title="null program" xmlUrl="https://nullprogram.com/feed" type="rss" text="null program"/>
         <outline title="Nuno Maduro" xmlUrl="https://nunomaduro.com/rss/" type="rss" text="Nuno Maduro"/>
         <outline title="Dan Abramov's Overreacted Blog RSS Feed" xmlUrl="https://overreacted.io/rss.xml" type="rss" text="Dan Abramov's Overreacted Blog RSS Feed"/>
         <outline title="Go, the unwritten parts" xmlUrl="https://rakyll.org/index.xml" type="rss" text="Go, the unwritten parts"/>
