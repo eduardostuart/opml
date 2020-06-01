@@ -41,6 +41,7 @@
         <outline title="Rastko.tech" xmlUrl="https://rastko.tech/feed.xml" type="rss" text="Rastko.tech"/>
         <outline title="Guillermo Rauch" xmlUrl="https://rauchg.com/atom" type="rss" text="Guillermo Rauch"/>
         <outline title="STOIC ANSWERS" xmlUrl="https://stoicanswers.com/feed/" type="rss" text="STOIC ANSWERS"/>
+        <outline title="victorzhou.com" xmlUrl="https://victorzhou.com/rss.xml" type="rss" text="victorzhou.com"/>
         <outline title="vinkla.dev - all blog posts" xmlUrl="https://vinkla.dev/feed.xml" type="rss" text="vinkla.dev - all blog posts"/>
         <outline title="Netlify: All-in-one platform for automating modern web projects" xmlUrl="https://www.netlify.com/blog/index.xml" type="rss" text="Netlify: All-in-one platform for automating modern web projects"/>
     </body>
