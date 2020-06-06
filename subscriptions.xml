@@ -22,6 +22,7 @@
         <outline title="Filipe Freire’s homepage" xmlUrl="https://filfreire.com/feed.xml" type="rss" text="Filipe Freire’s homepage"/>
         <outline title="The GitHub Blog" xmlUrl="https://github.blog/feed/" type="rss" text="The GitHub Blog"/>
         <outline title="Illustrated.dev" xmlUrl="https://illustrated.dev/rss.xml" type="rss" text="Illustrated.dev"/>
+        <outline title="Increment" xmlUrl="https://increment.com/feed.xml" type="rss" text="Increment"/>
         <outline title="Instagram RSS" xmlUrl="https://instagram-engineering.com/feed" type="rss" text="Instagram RSS"/>
         <outline title="Jake Archibald's Blog" xmlUrl="https://jakearchibald.com/posts.rss" type="rss" text="Jake Archibald's Blog"/>
         <outline title="Jason McCreary" xmlUrl="https://jasonmccreary.me/feed.atom" type="rss" text="Jason McCreary"/>
