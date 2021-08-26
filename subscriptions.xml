@@ -47,5 +47,6 @@
         <outline title="Netlify: All-in-one platform for automating modern web projects" xmlUrl="https://www.netlify.com/blog/index.xml" type="rss" text="Netlify: All-in-one platform for automating modern web projects"/>
         <outline title="Sylvain Kerkour" xmlUrl="https://kerkour.com/feed.xml" type="rss" text="Sylvain Kerkour" />
         <outline title="James Clear" xmlUrl="https://jamesclear.com/feed" type="rss" text="James Clear" />
+        <outline title="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" />
     </body>
 </opml>
