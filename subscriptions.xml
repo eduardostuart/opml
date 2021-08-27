@@ -45,5 +45,6 @@
         <outline title="Sylvain Kerkour" xmlUrl="https://kerkour.com/feed.xml" type="rss" text="Sylvain Kerkour" />
         <outline title="James Clear" xmlUrl="https://jamesclear.com/feed" type="rss" text="James Clear" />
         <outline title="fasterthanli.me" xmlUrl="https://fasterthanli.me/index.xml" />
+        <outline title="gemeente haarlemmermeer" xmlUrl="https://haarlemmermeergemeente.nl/feeds/nieuws.xml" />
     </body>
 </opml>
